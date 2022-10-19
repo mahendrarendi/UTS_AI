@@ -19,3 +19,5 @@ display_outputs = np.dot(weights, inputs) + bias
 
 #print output
 print(display_outputs)
+
+#develop @mahendrarendi
